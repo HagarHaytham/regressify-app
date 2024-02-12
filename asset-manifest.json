@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/regressify-app/static/css/main.b1d7ec7b.css",
-    "main.js": "/regressify-app/static/js/main.e8eacb51.js",
+    "main.js": "/regressify-app/static/js/main.871fcae6.js",
     "static/js/592.bf6ca574.chunk.js": "/regressify-app/static/js/592.bf6ca574.chunk.js",
     "index.html": "/regressify-app/index.html",
     "main.b1d7ec7b.css.map": "/regressify-app/static/css/main.b1d7ec7b.css.map",
-    "main.e8eacb51.js.map": "/regressify-app/static/js/main.e8eacb51.js.map",
+    "main.871fcae6.js.map": "/regressify-app/static/js/main.871fcae6.js.map",
     "592.bf6ca574.chunk.js.map": "/regressify-app/static/js/592.bf6ca574.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b1d7ec7b.css",
-    "static/js/main.e8eacb51.js"
+    "static/js/main.871fcae6.js"
   ]
 }
